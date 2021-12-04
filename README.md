@@ -8,7 +8,7 @@ Esse é um projeto desenvolvido durante a Mapa Dev Week do [Dev em Dobro](https:
 
 ### Links
 
-- Clique aqui -> [URL da soolução](https://matheuscmorais356.github.io/FAQ/)
+- Clique aqui -> [URL da solução](https://matheuscmorais356.github.io/FAQ/)
 
 ### Construido com
 
@@ -19,5 +19,5 @@ Esse é um projeto desenvolvido durante a Mapa Dev Week do [Dev em Dobro](https:
 
 ## Autor
 
-- Git - [Matheus Cardsoso Morais](https://github.com/matheuscmorais356)
+- Git - [Matheus Cardoso Morais](https://github.com/matheuscmorais356)
 - Linkedin - [Matheus Cardoso](https://www.linkedin.com/in/matheus-cardoso-4442b5206)
