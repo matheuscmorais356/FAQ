@@ -8,7 +8,7 @@ Esse é um projeto desenvolvido durante a Mapa Dev Week do [Dev em Dobro](https:
 
 ### Links
 
-- Clique aqui -> [URL da soolução](https://matheuscmorais356.github.io/FAQ-mapa-dev-week)
+- Clique aqui -> [URL da soolução](https://matheuscmorais356.github.io/FAQ/)
 
 ### Construido com
 
