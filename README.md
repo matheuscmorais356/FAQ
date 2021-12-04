@@ -1,6 +1,6 @@
 # Mapa Dev Week - FAQ
 
-<p aling="center" >/
+<p aling="center" >
   <img width="1000" src="./img/ProjetoConcluido.PNG"/>
 </p>
 
